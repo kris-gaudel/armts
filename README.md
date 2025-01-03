@@ -1,5 +1,5 @@
 # armts
-A Typescript to ARM compiler written in C++
+A Typescript to ARM compiler written in C++17
 
 ##  Running ARM programs
 I rented an EC2 instance running Ubuntu 24.04 and used QEMU to emulate an ARM processor.
